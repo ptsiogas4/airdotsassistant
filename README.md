@@ -7,7 +7,7 @@ Feel free to suggest features or fork the repository.
 
 In order to install this usefull app download the .apk from the link below:
 
-    https://rink.hockeyapp.net/apps/56e27e0fe5034be696c83f0d8f9602de/app_versions/1 
+<a href='javascript:'>https://rink.hockeyapp.net/apps/56e27e0fe5034be696c83f0d8f9602de/app_versions/1</a>
 
 
 ## Developed by
