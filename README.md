@@ -4,7 +4,7 @@ The app is not running in the background to perform this task like other similar
 Feel free to suggest features or fork the repository.
 
 ### Installation guide
-=======================
+
 In order to install this usefull app download the .apk from the link below:
 
     https://rink.hockeyapp.net/apps/56e27e0fe5034be696c83f0d8f9602de/app_versions/1 
